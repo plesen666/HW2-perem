@@ -73,8 +73,7 @@ int breakfastKg= breakfast/1000;
            int dayHardDiet= finihsMass/hardDiet;
            int day = (dayLiteDiet+dayHardDiet)/2;
         System.out.println( " Чтобы похудеть спортсмену потребуется в среднем "+ day +" дней.");
-
-//8
+        //8
 
 int mashaSalary = 67760;
 int denisSalary = 83690;
